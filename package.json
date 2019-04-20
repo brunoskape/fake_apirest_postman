@@ -1,0 +1,14 @@
+{
+  "name": "fakeapitest",
+  "version": "1.0.0",
+  "description": "fake api testing",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "bruno bispo",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}

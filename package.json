@@ -6,7 +6,7 @@
   "scripts": {
     "json:server": "json-server --watch db.json"
   },
-  "author": "bruno bispo",
+  "author": "bruno rodrigues bispo",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.14.2"
